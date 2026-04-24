@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NikolaiSantos/NikolaiSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Orlando Nikolai Santos Alvarado
 
-Here are some ideas to get you started:
+**Sociólogo cuantitativo · Analista de datos · Investigador**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orlando-nikolai-santos-alvarado-b9b641169/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@onikolaisa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osantosa@labdatosperu.org)
+
+</div>
+
+---
+
+## 👤 Sobre mí
+
+Sociólogo cuantitativo con más de **6 años de experiencia** en investigación aplicada, análisis de datos y gestión de sistemas de información en el sector público y privado peruano.
+
+Mi trabajo se sitúa en la intersección entre las ciencias sociales y el análisis de datos: diseño metodológico de encuestas, construcción de indicadores, modelado estadístico y desarrollo de dashboards interactivos orientados a la toma de decisiones de políticas públicas y negocios.
+
+- 🎓 Licenciado en Sociología — **UNMSM**
+- 📚 Maestrando en Economía con mención en Gestión y Políticas Públicas — **UNMSM**
+- 🏛️ Presidente y fundador del **[Laboratorio de Datos Sociales](https://www.labdatosperu.org)**
+- 🌎 Lima, Perú &nbsp;|&nbsp; Inglés C1 · Portugués C1
+
+---
+
+## 🛠️ Stack tecnológico
+
+### Análisis y visualización de datos
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Herramientas y entornos
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-1A4E8C?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Dominios temáticos
+`Políticas públicas` &nbsp;`Encuestas estadísticas` &nbsp;`Econometría` &nbsp;`Ciencias sociales computacionales` &nbsp;`Gestión pública` &nbsp;`Machine Learning`
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🗺️ [Visualizando el Perú — Datos abiertos al alcance de todos](https://www.labdatosperu.org/proyectos/visualizando-el-per%C3%BA)
+> **Laboratorio de Datos Sociales · feb. 2025 – ago. 2025**
+
+Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a voluntarios en Power BI y fuentes de datos abiertos del Gobierno Peruano, y brindé asesoría técnica en la creación y actualización de dashboards de acceso público sobre la realidad peruana.
+
+---
+
+### 📊 Dashboard PP0101 — Presupuesto Deportivo Peruano
+> **Instituto Peruano del Deporte (IPD) · 2024 – 2025**
+
+Desarrollo y mantenimiento en Power BI de un dashboard interactivo para el seguimiento del Programa Presupuestal PP0101. Parte del trabajo del **Observatorio del Deporte Peruano (ODP)**.
+
+---
+
+### 📋 Primera Encuesta a Usuarios del Sistema de Justicia Penal
+> **Ministerio de Justicia y Derechos Humanos · ago. – dic. 2024**
+
+Lideré el diseño experimental y la supervisión a nivel nacional de la primera encuesta dirigida a usuarios del sistema de administración de justicia penal en el Perú, financiada por el proyecto PRODOC.
+
+---
+
+### 🏫 Escuela Abierta de Sociales
+> **Facultad de CC.SS. UNMSM & Colegio de Sociólogos de Lima · feb. – mar. 2024**
+
+Dicté ad honorem 10 horas del curso *Power BI aplicado a datos sociales* en el marco de este proyecto de extensión universitaria, como representante del Laboratorio de Datos Sociales.
+
+---
+
+## 📄 Publicaciones
+
+**[Xenofobia y racismo hacia (y por) inmigrantes venezolanos residentes en Perú a través de Twitter](https://doi.org/10.29105/gmjmx18.34-8)**
+*Global Media Journal México · julio 2021*
+
+> Análisis cuantitativo y cualitativo de discursos xenófobos y racistas en Twitter mediante algoritmos de web scraping escritos en R. Examina la exteriorización discursiva diferenciada por género y dirección del discurso.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolaiSantos&show_icons=true&theme=default&hide_border=true&locale=es&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiSantos&layout=compact&theme=default&hide_border=true&locale=es)
+
+</div>
+
+---
+
+## 📬 Contacto
+
+| Canal | Enlace |
+|---|---|
+| 📧 Correo | [osantosa@labdatosperu.org](mailto:osantosa@labdatosperu.org) |
+| 💼 LinkedIn | [orlando-nikolai-santos-alvarado](https://www.linkedin.com/in/orlando-nikolai-santos-alvarado-b9b641169/) |
+| ✍️ Substack | [@onikolaisa](https://substack.com/@onikolaisa) |
+| 🌐 Web | [labdatosperu.org](https://www.labdatosperu.org) |
+
+---
+
+<div align="center">
+
+*"Los datos no hablan por sí solos — hace falta saber escucharlos."*
+
+</div>
