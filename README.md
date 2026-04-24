@@ -53,7 +53,7 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 
 ---
 
-### 📊 Modelo de datos de panel sobre presupuesto deportivo peruano (R)
+### 📊 [Modelo de datos de panel sobre presupuesto deportivo peruano (R)](https://github.com/NikolaiSantos/panel_difference_gmm_PP0101)
 > **Tesis de maestría en Economía**
 
 ---
