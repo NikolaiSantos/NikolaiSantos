@@ -72,18 +72,6 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolaiSantos&show_icons=true&theme=default&hide_border=true&locale=es&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaiSantos&layout=compact&theme=default&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 📬 Contacto
 
 | Canal | Enlace |
