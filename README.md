@@ -94,9 +94,3 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 | 🌐 Web | [labdatosperu.org](https://www.labdatosperu.org) |
 
 ---
-
-<div align="center">
-
-*"Los datos no hablan por sí solos — hace falta saber escucharlos."*
-
-</div>
