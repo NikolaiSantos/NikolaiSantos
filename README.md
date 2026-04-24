@@ -53,24 +53,13 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 
 ---
 
-### 📊 Dashboard PP0101 — Presupuesto Deportivo Peruano
-> **Instituto Peruano del Deporte (IPD) · 2024 – 2025**
-
-Desarrollo y mantenimiento en Power BI de un dashboard interactivo para el seguimiento del Programa Presupuestal PP0101. Parte del trabajo del **Observatorio del Deporte Peruano (ODP)**.
+### 📊 Modelo de datos de panel sobre presupuesto deportivo peruano (R)
+> **Tesis de maestría en Economía**
 
 ---
 
-### 📋 Primera Encuesta a Usuarios del Sistema de Justicia Penal
-> **Ministerio de Justicia y Derechos Humanos · ago. – dic. 2024**
-
-Lideré el diseño experimental y la supervisión a nivel nacional de la primera encuesta dirigida a usuarios del sistema de administración de justicia penal en el Perú, financiada por el proyecto PRODOC.
-
----
-
-### 🏫 Escuela Abierta de Sociales
-> **Facultad de CC.SS. UNMSM & Colegio de Sociólogos de Lima · feb. – mar. 2024**
-
-Dicté ad honorem 10 horas del curso *Power BI aplicado a datos sociales* en el marco de este proyecto de extensión universitaria, como representante del Laboratorio de Datos Sociales.
+### 📊 Modelo de random forest sobre presupuesto deportivo peruano (Python)
+> **Paper académico en redacción**
 
 ---
 
