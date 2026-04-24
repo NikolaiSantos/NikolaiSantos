@@ -80,5 +80,6 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 | 💼 LinkedIn | [orlando-nikolai-santos-alvarado](https://www.linkedin.com/in/orlando-nikolai-santos-alvarado-b9b641169/) |
 | ✍️ Substack | [@onikolaisa](https://substack.com/@onikolaisa) |
 | 🌐 Web | [labdatosperu.org](https://www.labdatosperu.org) |
+| 🔬 ORCID | [Orlando Nikolai Santos Alvarado](https://orcid.org/0000-0002-7490-3048)|
 
 ---
