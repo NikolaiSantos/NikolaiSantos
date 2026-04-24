@@ -58,7 +58,7 @@ Jefe de proyecto y especialista técnico. Planeé el proyecto, capacité a volun
 
 ---
 
-### 📊 Modelo de random forest sobre presupuesto deportivo peruano (Python)
+### 📊 [Modelo de random forest sobre presupuesto deportivo peruano (Python)](https://github.com/NikolaiSantos/random_forest_PP0101)
 > **Paper académico en redacción**
 
 ---
